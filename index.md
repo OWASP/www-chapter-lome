@@ -8,6 +8,9 @@ level: 0
 region: Africa
 
 auto-migrated: 1
+meetup-group: OWASP-Lome-Chapter
+country: Togo
+postal-code: 
 
 ---
 
