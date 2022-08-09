@@ -1,3 +1,3 @@
 ### Leaders
-* [Edem Aloma](mailto:edem.aloma@owasp.org)
-* [Lynda Akagba](mailto:lynda.akagba@owasp.org)
+* [Edem Alomatsi](mailto:edem.alomatsi@owasp.org)
+* [Lynda Akagba](mailto:lynda.akagbe@gmail.com)
