@@ -3,11 +3,11 @@
 layout: col-sidebar
 title: OWASP Lome
 tags: owasp-lome, owasp-togo
-level: 0
 region: Africa
 meetup-group: OWASP-Lome-Chapter
 country: Togo
 postal-code: 228
+
 
 ---
 
@@ -16,9 +16,6 @@ Welcome to the Lomé chapter homepage. The chapter leaders are Edem Alomatsi, Ly
 Our mission is to make software security visible, so that individuals and organizations worldwide can make informed decisions about software security risks.
 With the Lomé chapter, we aim to organize at least 4 local chapter meetings per year. Any suggestions for speakers or venue? Feel free to reach out to us!
 
-### Social Links
-* [Meetup](#)
-* [Social Link](#)-
 
 
 ## Participation
