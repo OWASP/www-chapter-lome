@@ -6,7 +6,7 @@ site_side: true
 tags: owasp-lome, owasp-togo
 level: 3
 region: Africa
-meetup-group: meetup-group-rugmvamn
+meetup-group: owasp-lome
 country: Togo
 postal-code: 228
 
