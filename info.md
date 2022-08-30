@@ -1,5 +1,6 @@
 ---
+
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-
+* [Meetup](https://www.meetup.com/meetup-group-rugmvamn/)
+* [Social Link](#)
 
