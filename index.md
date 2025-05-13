@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Lome
+title: Lome
 site_side: true
 tags: owasp-lome, owasp-togo
 level: 3
@@ -14,7 +14,7 @@ postal-code: 228
 ---
 
 ### Presentation
-Welcome to the Lomé chapter homepage. The chapter leaders are Edem Alomatsi, Lynda Akagbe.
+Welcome to the Lomé chapter homepage. The chapter leaders are .
 Our mission is to make software security visible, so that individuals and organizations worldwide can make informed decisions about software security risks.
 With the Lomé chapter, we aim to organize at least 4 local chapter meetings per year. Any suggestions for speakers or venue? Feel free to reach out to us!
 
