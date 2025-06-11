@@ -1,6 +1,6 @@
 ---
 ### Chapter Information
-OWASP Togo, Lomé, Togo
+OWASP Togo, Lomé-Togo
 
 
 ### Social Links
