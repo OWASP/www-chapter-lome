@@ -1,3 +1,3 @@
 ### Leaders
-* [Komlan Djifa TCHALA](mailto:hakim.tchala@owasp.org)
+* [Hakim TCHALA](mailto:hakim.tchala@owasp.org)
 * [Alassani ABODJI](mailto:alassani.abodji@owasp.org)
