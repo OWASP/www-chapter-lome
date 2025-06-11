@@ -11,7 +11,7 @@ postal-code: 228
 ---
 
 
-# Chapitre OWASP Togo
+## Chapitre OWASP Togo
 
 
 ## Présentation du Chapitre OWASP Togo
