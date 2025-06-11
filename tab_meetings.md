@@ -1,9 +1,10 @@
 ---
 title: Meetings
+displaytext: Nos Meetings
 layout:  null
 tab: true
-order: 1
-tags: meetings-tag
+order: 2
+tags: owasp-togo
 ---
 
 ## Nos Evénements
