@@ -2,7 +2,7 @@
 layout: col-sidebar
 title: Togo
 site_side: true
-tags: owasp-lome, owasp-togo
+tags: owasp-togo
 level: 3
 region: Africa
 meetup-group: owasp-Togo
