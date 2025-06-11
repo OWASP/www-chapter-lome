@@ -1,3 +1,4 @@
+---
 layout: col-sidebar
 title: Togo
 site_side: true
@@ -7,6 +8,7 @@ region: Africa
 meetup-group: owasp-Togo
 country: Togo
 postal-code: 228
+---
 
 
 # Chapitre OWASP Togo
