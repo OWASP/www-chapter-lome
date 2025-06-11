@@ -50,7 +50,5 @@ Nous invitons les **professionnels, étudiants, chercheurs, décideurs et dével
 Contribuez activement à l’essor d’une culture de **cybersécurité robuste et durable** au Togo et en Afrique de l’Ouest.
 
 
-**En savoir plus sur OWASP :**  
-[Site officiel OWASP](https://owasp.org)
 
 
